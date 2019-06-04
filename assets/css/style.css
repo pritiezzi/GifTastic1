@@ -21,7 +21,9 @@
 
 .btn-primary {
     background-color: red;
-    border-color: #8064A2;
+	border-color: black;
+	text-align: center;
+
 }
 
 label {
@@ -44,4 +46,8 @@ label {
 .netflixGiphy {
 	padding: 2px;
 	width: 80%;
+}
+
+.button {
+	text-align: center;
 }
